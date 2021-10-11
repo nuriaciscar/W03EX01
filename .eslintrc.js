@@ -4,9 +4,9 @@ module.exports = {
         "es2021": true
     },
     "extends": [
-       ["airbnb-base", "prettier"];
+       ["airbnb-base", "prettier"],
     ]
-    "parserOptions": {
+    'parserOptions': {
         "ecmaVersion": 12
     },
     "rules": {
