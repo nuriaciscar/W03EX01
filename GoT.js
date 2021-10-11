@@ -14,7 +14,7 @@ class Personajes {
   }
 
   comunicar() {
-    return "";
+    return " ";
   }
 
   morir() {
