@@ -1,1 +1,2 @@
-import Personajes from "./GoT.js";
+import Personajes from "./GoT";
+class PersomajeRey extends Personajes {}
