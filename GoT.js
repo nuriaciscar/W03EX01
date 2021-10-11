@@ -5,12 +5,11 @@ class Personajes {
   estado = "vivo";
   serie = "Juego de Tronos";
 
-  constructor(nombre, familia, estado, edad, serie) {
+  constructor(nombre, familia, estado, edad) {
     this.nombre = nombre;
     this.familia = familia;
     this.edad = edad;
     this.estado = estado;
-    this.serie = serie;
   }
 
   comunicar() {
